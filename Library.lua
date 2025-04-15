@@ -3914,7 +3914,7 @@ do
             if transp then
                 utility:LoadImage(colorpicker__transparency, "cptransp", "https://i.imgur.com/IIPee2A.png")
             end
-            utility:LoadImage(colorpicker__gradient, "gradient", "https://i.imgur.com/5hmlrjX.png")
+            utility:LoadImage(colorpicker__gradient, "gradient", "https://raw.githubusercontent.com/triff/colorpicker/master/images/saturation.png")
             --
             function colorpicker:Set(color, transp_val)
                 if typeof(color) == "table" then
@@ -6295,7 +6295,7 @@ do
         if transp then
             utility:LoadImage(colorpicker__transparency, "cptransp", "https://i.imgur.com/IIPee2A.png")
         end
-        utility:LoadImage(colorpicker__gradient, "gradient", "https://i.imgur.com/5hmlrjX.png")
+        utility:LoadImage(colorpicker__gradient, "gradient", "https://raw.githubusercontent.com/triff/colorpicker/master/images/saturation.png")
         --
         function colorpicker:Set(color, transp_val)
             if typeof(color) == "table" then
@@ -6739,7 +6739,7 @@ do
             if transp then
                 utility:LoadImage(colorpicker__transparency, "cptransp", "https://i.imgur.com/IIPee2A.png")
             end
-            utility:LoadImage(colorpicker__gradient, "gradient", "https://i.imgur.com/5hmlrjX.png")
+            utility:LoadImage(colorpicker__gradient, "gradient", "https://raw.githubusercontent.com/triff/colorpicker/master/images/saturation.png")
             --
             function colorpicker:Set(color, transp_val)
                 if typeof(color) == "table" then
